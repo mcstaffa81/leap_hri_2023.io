@@ -2,14 +2,35 @@
 title: Home
 ---
 
+
 # Long-term Personalization in HRI.
 
+We invite short papers of 2-4 pages (plus additional pages for references and appendices), including
+work in progress containing preliminary results, technical reports, case studies, surveys and
+state-of-the-art research of personal robots in a variety of fields (companion robots, education,
+rehabilitation, elderly care) and long-term studies in any of these fields. 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+### Important Dates
 
-A minimal Jekyll theme for creating workshop websites.
+- Submission deadline: January 27, 2019
+- Notifications: February 17, 2019
+- Camera-ready deadline: March 3, 2019
 
-*Add your workshop abstract here!*
+
+Topics of interest include but are not limited to:
+- Personalization in HRI for companion robots, collaborative tasks, education, rehabilitation,
+elderly care
+- Adaptation algorithms for long-term interactions
+- User modeling
+- Long-term memory (episodic, semantic, associative)
+- User recognition
+- Long-term HRI studies
+- Conversational agents in long-term interactions
+- Engagement in long-term HRI
+- Evaluation in long-term HRI
+- Challenges/Guidelines for field studies in long-term HRI
+- Design and methodologies for repeated human-robot interactions
+- Autonomy in long-term interaction
 
 ## Provisional Schedule
 
@@ -32,12 +53,12 @@ re-arranged to synchronize with the lunch and coffee breaks.
 - 17:45 - 18:00 Closing remarks
 - 18:00 - Workshop dinner
 
-<div class="toc" markdown="1">
-## Contents:
+## Invited Speakers
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
-{% endfor %}
-</div>
+- Takayuki Kanda, Kyoto University (confirmed)
+- James Kennedy, Disney Research (confirmed)
+- Hae Won Park, MIT Media Lab Personal Robots Group (confirmed)
+- Ognjen Rudovic, MIT Media Lab Affective Computing Group (confirmed)
 
+{% include figure.html img="hri-2019-logo-long.png" alt="intro image here" width="50%" %}
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}.
