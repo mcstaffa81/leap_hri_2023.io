@@ -1,43 +1,68 @@
-## Welcome to the website
+# workshop-template
 
-The “Personalization in Long-Term Human-Robot Interaction” workshop focuses on studies
-on adaptivity to users, context, environment, and tasks in long-term interactions in a variety of
-fields (e.g. companion robots, collaborative tasks, education, rehabilitation, elderly care). We
-intend to create a medium for researchers to share their work in progress, to introduce their
-preliminary results, and to share and discuss with the other researchers a
+A Jekyll template for a simple workshop website, based on the [Minima theme](https://github.com/jekyll/minima), designed for hosting on [gh-pages](https://pages.github.com/).
 
-## Organizers
+Works best for about 5 pages of instructions, plus index, all written in Markdown. 
+The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
 
-Bahar Irfan, University of Plymouth, UK, bahar.irfan@plymouth.ac.uk. 
+## Why?
 
-Aditi Ramachandran, Yale University, USA, aditi.ramachandran@yale.edu. 
+Rather than making slides for a workshop, why not make a website? 
+It's easier to write, access, share, and reuse. 
+GitHub and gh-pages makes this super easy.
 
-Samuel Spaulding, MIT Media Lab, USA, samuelsp@media.mit.edu. 
+It is a better Open Educational Resource since anyone can fork and adapt!
 
-Dylan F. Glas, Futurewei Technologies, Huawei, USA, dylan.f.glas@gmail.com. 
+## Details
 
-Iolanda Leite, Royal Institute of Technology (KTH), Sweden, iolanda@kth.se. 
+This repo is the demo skeleton. 
+The [site](https://evanwill.github.io/workshop-template/) demonstrates the output on gh-pages, and the content pages serve as examples.
 
-Kheng Lee Koay, University of Hertfordshire, UK, k.l.koay@herts.ac.uk. 
+Overview:
 
-## Important Dates
+1. Fork or import the [repository](https://github.com/evanwill/workshop-template) on GitHub.
+2. Clone to your local machine, or work on the GitHub web interface to edit files.
+3. Edit the `_config.yml` with your info.
+4. Edit the content pages in markdown.
+5. Add images to the "images" folder.
+5. Push to GitHub (or commit on the web interface).
+6. In your repo's settings, activate gh-pages, using master branch.
 
-## Provisional Program
-The proposed schedule is subject to change depending on the number of submissions. It will be
-re-arranged to synchronize with the lunch and coffee breaks.
-9:00 - 9:05 Opening remarks
-9:05 - 9:35 Keynote #1
-9:35 - 10:05 Keynote #2
-10:05 - 10:45 Brain-storming #1
-10:45 - 11:05 Coffee break
-11:05 - 12:20 Full talks (4-5 papers)
-12:20 - 13:50 Lunch
-13:50 - 14:20 Keynote #3
-14:20 - 14:50 Keynote #4
-14:50 - 15:20 Short talks (5-6 papers)
-15:20 - 15:40 Coffee break
+When creating content pages:
 
-15:40 - 17:00 Full talks (4-5 papers)
-17:00 - 17:45 Brain-storming #2
-17:45 - 18:00 Closing remarks
-18:00 - Workshop dinner
+- to include a page in the nav, add `nav: true` to the file's yml front matter.
+- the `title:` value will appear in the nav, sorted in the order of filenames. For simplicity use leading numbers in the lesson page filenames to create correct order.
+- the default layout does not add `title` to the page, so it can be a short for the nav. 
+Add a title in the Markdown content.
+
+Using figure include:
+
+- put all images in the `images` directory.
+- figures will be centered, and can optionally be given a caption and percentage width.
+- in a markdown file where you want the image to appear, use the `figure.html` include on its own line.
+- pattern: `{% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}`
+
+Basic style customization:
+
+- the `main.scss` in the `css` folder exposes variables that can customize the basic style of website.
+- Give a tiny splash of color on the header and footer borders by tweaking the `$border-color` 
+- `$link-color` colors links
+
+Using optional google analytics:
+
+- add your analytics id to `_config.yml` in `google_analytics:` 
+- if `google_analytics:` is blank, the ga code will not added
+- analytics code will only be added when using "production" environment. This happens automatically on gh-pages. To build locally, use `JEKYLL_ENV=production jekyll build`
+
+> Repository does not include a Gemfile because it is a very simple project. 
+> Originally built using Ruby 2.3+ and Jekyll 3.4+; most recently used Jekyll 3.8.1.
+
+## Demos
+
+My workshop sites using versions of this template:
+
+- [get-git](https://evanwill.github.io/get-git/)
+- [hello-arduino](https://evanwill.github.io/hello-arduino/)
+- [clean-your-data](https://evanwill.github.io/clean-your-data/)
+- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
+- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
