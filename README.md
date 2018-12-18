@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome to the website
 
-You can use the [editor on GitHub](https://github.com/LongTermPersonalizationHRI/workshop-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The “Personalization in Long-Term Human-Robot Interaction” workshop focuses on studies
+on adaptivity to users, context, environment, and tasks in long-term interactions in a variety of
+fields (e.g. companion robots, collaborative tasks, education, rehabilitation, elderly care). We
+intend to create a medium for researchers to share their work in progress, to introduce their
+preliminary results, and to share and discuss with the other researchers a
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Organizers
 
-### Markdown
+Bahar Irfan, University of Plymouth, UK, bahar.irfan@plymouth.ac.uk. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aditi Ramachandran, Yale University, USA, aditi.ramachandran@yale.edu. 
 
-```markdown
-Syntax highlighted code block
+Samuel Spaulding, MIT Media Lab, USA, samuelsp@media.mit.edu. 
 
-# Header 1
-## Header 2
-### Header 3
+Dylan F. Glas, Futurewei Technologies, Huawei, USA, dylan.f.glas@gmail.com. 
 
-- Bulleted
-- List
+Iolanda Leite, Royal Institute of Technology (KTH), Sweden, iolanda@kth.se. 
 
-1. Numbered
-2. List
+Kheng Lee Koay, University of Hertfordshire, UK, k.l.koay@herts.ac.uk. 
 
-**Bold** and _Italic_ and `Code` text
+## Important Dates
 
-[Link](url) and ![Image](src)
-```
+## Provisional Program
+The proposed schedule is subject to change depending on the number of submissions. It will be
+re-arranged to synchronize with the lunch and coffee breaks.
+9:00 - 9:05 Opening remarks
+9:05 - 9:35 Keynote #1
+9:35 - 10:05 Keynote #2
+10:05 - 10:45 Brain-storming #1
+10:45 - 11:05 Coffee break
+11:05 - 12:20 Full talks (4-5 papers)
+12:20 - 13:50 Lunch
+13:50 - 14:20 Keynote #3
+14:20 - 14:50 Keynote #4
+14:50 - 15:20 Short talks (5-6 papers)
+15:20 - 15:40 Coffee break
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LongTermPersonalizationHRI/workshop-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+15:40 - 17:00 Full talks (4-5 papers)
+17:00 - 17:45 Brain-storming #2
+17:45 - 18:00 Closing remarks
+18:00 - Workshop dinner
