@@ -24,7 +24,7 @@ repo: "https://github.com/LongTermPersonalizationHRI/LongTermPersonalizationHRI"
 url: https://LongTermPersonalizationHRI.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /LongTermPersonalizationHRI
+#baseurl: /LongTermPersonalizationHRI
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
