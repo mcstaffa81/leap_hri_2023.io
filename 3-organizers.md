@@ -30,5 +30,10 @@ Iolanda Leite is an Assistant Professor at the School of Computer Science and El
 Kheng Lee Koay joined the University of Hertfordshire as a Senior Research Fellow with the Adaptive Systems Research Group in 2003, and has been a Senior Lecturer since 2016. His research expertise includes Mobile Robotics, Robotic Home Companions, Human-Robot Interaction and Human-Robot Proxemics. In particular, his research focuses on human centred socially acceptable human-robot interactions, and experimental design and evaluation methodologies. He has successfully conducted a large number of short-term and long-term HRI experimental user studies in the area of robotic home companions, which are designed to interact with and operate safely in domestic environments.
 
 ## Sponsors
-
-{% include figure.html img="april-logo.png" alt="APRIL" width="15%" %} {% include figure.html img="EU-Commission-logo.png" alt="European Union Commission" width="15%" %} {% include figure.html img="Plymouth-logo.jpg" alt="University of Plymouth" width="15%"  %}
+<table>
+    <tr>
+    <td> <img src="april-logo.png" alt="Drawing" style="width: 150px;"/> </td>
+    <td> <img src="EU-Commission-logo.png" alt="European Union Commission" style="width: 150px;"/> </td>
+    <td> <img src="Plymouth-logo.jpg" alt="University of Plymouth" style="width: 150px;"/> </td>
+    </tr>
+</table>
