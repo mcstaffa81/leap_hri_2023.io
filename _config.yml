@@ -8,12 +8,12 @@
 
 # Site settings
 # title appears in the header
-title: "Long-term Personalization in HRI"
+title: "Personalization in Long-term HRI"
 
 
 # author settings for cc-by, appears in the footer
 author: HRI
-pub_year: 2018
+pub_year: 2019
 
 # add the full url for the github repository
 repo: "https://github.com/LongTermPersonalizationHRI/LongTermPersonalizationHRI"
