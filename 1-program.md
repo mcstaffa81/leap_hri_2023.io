@@ -3,7 +3,7 @@ title: Program
 nav: true
 ---
 
-## Provisional Schedule
+## Schedule
 
 Check back for updates.
 
