@@ -3,9 +3,11 @@ title: Submission
 nav: true
 ---
 
-*Date:* March 11, 2019
-*Location:* Daegu, Korea
-*Contact:* aditi.ramachandran AT yale DOT edu or bahar.irfan AT plymouth DOT ac DOT uk
+**Date:** March 11, 2019
+
+**Location:** Daegu, Korea
+
+**Contact:** aditi.ramachandran AT yale DOT edu or bahar.irfan AT plymouth DOT ac DOT uk
 
 ## Important Dates
 
@@ -21,11 +23,11 @@ We invite short papers of 2-4 pages (plus additional pages for references and ap
 
 All manuscripts must be written in English and submitted electronically in PDF format via EasyChair, using IEEE format provided below. Supplementary materials (such as videos) can be uploaded or they can be provided as external links within the submission.
 
-Submission site (EasyChair): https://easychair.org/conferences/?conf=plothri19
+Submission site (EasyChair): <https://easychair.org/conferences/?conf=plothri19>
 
-IEEE templates: https://www.ieee.org/conferences/publishing/templates.html
+IEEE templates: <https://www.ieee.org/conferences/publishing/templates.html>
 
-Overleaf template: https://www.overleaf.com/latex/templates/ieee-conference-template-example/nsncsyjfmpxy
+Overleaf template: <https://www.overleaf.com/latex/templates/ieee-conference-template-example/nsncsyjfmpxy>
 
 ## Topics of Interest
 

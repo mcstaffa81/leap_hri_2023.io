@@ -5,6 +5,8 @@ nav: true
 
 ## Provisional Schedule
 
+Check back for updates.
+
 - 9:00 - 9:05 Opening remarks
 - 9:05 - 9:35 Keynote #1
 - 9:35 - 10:05 Keynote #2
