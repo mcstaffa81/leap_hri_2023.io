@@ -31,8 +31,4 @@ Kheng Lee Koay joined the University of Hertfordshire as a Senior Research Fello
 
 ## Sponsors
 
-{% include figure.html img="april-logo.png" alt="APRIL" width="50%" %}
-
-{% include figure.html img="EU-Commission-logo.png" alt="European Union Commission" width="50%" %}
-
-{% include figure.html img="Plymouth-logo.jpg" alt="University of Plymouth" width="50%"  %}
+{% include figure.html img="april-logo.png" alt="APRIL" width="15%" %} {% include figure.html img="EU-Commission-logo.png" alt="European Union Commission" width="15%" %} {% include figure.html img="Plymouth-logo.jpg" alt="University of Plymouth" width="15%"  %}
