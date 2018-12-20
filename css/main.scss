@@ -65,7 +65,8 @@ $on-laptop:        800px !default;
  * Images
  */
 .id-pics img {
-  align: left;
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
   display: inline-block;
 }
