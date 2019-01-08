@@ -5,7 +5,7 @@ title: Overview
 
 ## Personalization in Long-Term Human-Robot Interaction (PLOT-HRI19)
 
-{% include figure.html image="../images/banner-image.jpg" alt="banner image" width="100%" %}
+{% include figure.html image="banner-image.jpg" alt="banner image" width="100%" %}
 
 Long-term human-robot interaction is essential in many areas, such as for companion robots, rehabilitation, and education. However, interactions based on fixed collections of behaviors can become repetitive over time, causing user engagement to decrease after the novelty effect wears off. Personalization can help improve user engagement in long-term interactions, by adapting to the user’s personality, preferences, needs, or by recalling shared memories with the user. Moreover, personalizing the interaction can facilitate establishing rapport and trust between the user and the robot. However, long-term studies in human-robot interaction require a substantial amount of resources, especially if the robots are deployed “in the wild”, and do not always provide generalizable results due to the variability of subject needs, which makes it challenging for researchers to publish their results.
 
