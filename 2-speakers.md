@@ -7,8 +7,8 @@ nav: true
 
 <div class="id-pics" markdown="1">
 
-- [Takayuki Kanda](http://www.robot.soc.i.kyoto-u.ac.jp/~kanda/), *Kyoto University, Japan*
-{% include figure.html img="takayuki-kanda.jpeg" alt="Takayuki Kanda" width="200px" height="200px" %}
+{% include figure.html img="takayuki-kanda.jpeg" alt="Takayuki Kanda" width="200px" height="200px" class="float-left"%} [Takayuki Kanda](http://www.robot.soc.i.kyoto-u.ac.jp/~kanda/), *Kyoto University, Japan*
+
 Takayuki Kanda is a Senior Research Scientist at ATR Intelligent Robotics and Communication Laboratories, Kyoto, Japan. He received his B. Eng, M. Eng, and Ph. D. degrees in computer science from Kyoto University, Kyoto, Japan, in 1998, 2000, and 2003, respectively. He is one of the starting members of Communication Robots project at ATR. He has developed a communication robot, Robovie, and applied it in daily situations, such as peer-tutor at elementary school and a museum exhibit guide. His research interests include human-robot interaction, interactive humanoid robots, and field trials.
 
 - [James Kennedy](https://james-kennedy.github.io/), *Disney Research, USA*
