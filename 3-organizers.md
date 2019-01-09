@@ -8,35 +8,40 @@ nav: true
 <div class="id-pics" markdown="1">
 	
 
-![alt text](/images/bahar-irfan.jpg "Bahar Irfan") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bahar Irfan](https://www.baharirfan.com/), *University of Plymouth, UK*
+![alt text](/images/bahar-irfan.jpg?cropZoom=200,200 "Bahar Irfan") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bahar Irfan](https://www.baharirfan.com/), *University of Plymouth, UK*
 
 Bahar Irfan is an Early-Stage Researcher and a PhD candidate at the Centre for Robotics and Neural Systems, University of Plymouth and SoftBank Robotics Europe, Paris, France, in the joint Marie Skłodowska-Curie ITN project [APRIL](https://www.fose1.plymouth.ac.uk/socem/crns/april/). Her work focuses on multi-modal person recognition and personalization in long-term HRI for conversational agents. She is also working in a joint project on socially assistive robotics with Colombian School of Engineering Julio Garavito jointly funded by the Royal Academy of Engineering.
 
 ---
 
-![alt text](/images/aditi-ramachandran.png "Aditi Ramachandran") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aditi Ramachandran](http://www.aditiramachandran.com/), *Yale University, USA*
+
+![alt text](/images/aditi-ramachandran.png?cropZoom=200,200 "Aditi Ramachandran") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Aditi Ramachandran](http://www.aditiramachandran.com/), *Yale University, USA*
 
 Aditi Ramachandran is a sixth year PhD candidate in the Social Robotics Lab at Yale University. Her research focuses on personalized social robots in education.
 
 ---
 
-![alt text](/images/sam-spaulding.jpeg "Samuel Spaulding") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Samuel Spaulding](http://www.samspaulding.com/), *MIT Media Lab Personal Robots Group, USA*
+
+![alt text](/images/sam-spaulding.jpeg?cropZoom=200,200 "Samuel Spaulding") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Samuel Spaulding](http://www.samspaulding.com/), *MIT Media Lab Personal Robots Group, USA*
 
 Samuel Spaulding is a PhD student in the Personal Robots Group at the MIT Media Lab. His thesis research is focusing on building robots that can learn personalized cognitive and affective models of users over repeated interactions across different tasks.
 
 ---
 
-![alt text](/images/dylan-glas.jpg "Dylan F. Glas") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dylan F. Glas](http://www.dylanglas.com), *Futurewei Technologies, Huawei, USA*
+
+![alt text](/images/dylan-glas.jpg?cropZoom=200,200 "Dylan F. Glas") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dylan F. Glas](http://www.dylanglas.com), *Futurewei Technologies, Huawei, USA*
 
 Dylan Glas is a Senior Robotics Software Architect at Futurewei. His research interests include interaction design frameworks, autonomous behavior generation, and learning by imitation for social robots.
 
 ---
 
-![alt text](/images/iolanda-leite.jpg "Iolanda Leite") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Iolanda Leite](https://iolandaleite.com/), *Royal Institute of Technology (KTH), Sweden*
+
+![alt text](/images/iolanda-leite.jpg?cropZoom=200,200 "Iolanda Leite") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Iolanda Leite](https://iolandaleite.com/), *Royal Institute of Technology (KTH), Sweden*
 
 Iolanda Leite is an Assistant Professor at the School of Computer Science and Electrical Engineering at KTH. Her research interests are in the areas of Human-Robot Interaction and Artificial Intelligence. She aims to develop autonomous socially intelligent robots that can assist people over long periods of time.
 
 ---
+
 
 ![alt text](/images/kheng-lee-koay.png "Kheng Lee Koay") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kheng Lee Koay](http://homepages.herts.ac.uk/~comrklk/), *University of Hertfordshire, UK*
 
