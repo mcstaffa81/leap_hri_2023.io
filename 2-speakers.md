@@ -8,7 +8,7 @@ nav: true
 <div class="id-pics" markdown="1">
 
 - [Adriana Tapus](http://perso.ensta-paristech.fr/~tapus/eng/), *ENSTA-ParisTech, France*
-{% include figure.html img="adriana-tapus.jpeg" alt="Adriana Tapus" width="200px" height="200px" %}
+{% include figure.html img="adriana-tapus.png" alt="Adriana Tapus" width="200px" height="200px" %}
 Adriana Tapus is a Full Professor in the Autonomous Systems and Robotics Lab in the Computer Science and System Engineering Department (U2IS), at ENSTA-ParisTech, France. In 2011, she obtained the French Habilitation (HDR) for her thesis entitled “Towards Personalized Human-Robot Interaction”. She received her PhD in Computer Science from Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland in 2005 and her degree of Engineer in Computer Science and Engineering from Politehnica University of Bucharest, Romania in 2001. She worked as an Associate Researcher at the University of Southern California (USC), where she was among the pioneers on the development of socially assistive robotics, also participating to activity in machine learning, human sensing, and human-robot interaction. Her main interests are on long-term learning (i.e. in particular in interaction with humans), human modeling, and on-line robot behavior adaptation to external environmental factors. She received the Romanian Academy Award for her contributions in assistive robotics in 2010. She was elected in 2016 as one of the 25 women in robotics you need to know about.
 
 - [Takayuki Kanda](http://www.robot.soc.i.kyoto-u.ac.jp/~kanda/), *Kyoto University, Japan*
