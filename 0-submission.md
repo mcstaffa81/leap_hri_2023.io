@@ -12,16 +12,16 @@ nav: true
 
 ## Important Dates
 
- - **Submission deadline:** Jan 25th, 2019 (11:59 PM PT)
+ - **Submission deadline:** (FINAL EXTENSION) Feb 12th, 2019 (11:59 PM PT)
 
- - **Notification of acceptance:** Feb 18th, 2019
+ - **Notification of acceptance:** Feb 26th, 2019
 
- - **Camera-ready deadline:** Feb 28rd, 2019
+ - **Camera-ready deadline:** March 4th, 2019
 
 
 ## Submission Guidelines
 
-We invite short papers of 2-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research of personal robots in a variety of fields (e.g. companion robots, education, rehabilitation, elderly care) and long-term studies in any of these fields. The short papers should consist of an abstract, introduction underlying the main research question or the motivation of the work, related work, methodology, and the (preliminary) results if any, along with a description of future work. All submissions will be peer-reviewed (single-blind) for their relevance, novelty and scientific and technical soundness. Accepted papers will require at least one author to be registered for and attend the workshop.
+We invite short papers of 2-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research of personal robots in a variety of fields (e.g. companion robots, education, rehabilitation, elderly care) and long-term studies in any of these fields. The short papers should consist of an abstract, introduction underlying the main research question or the motivation of the work, related work, methodology, and the (preliminary) results if any, along with a description of future work. All submissions will be peer-reviewed (single-blind) for their relevance, novelty and scientific and technical soundness. Accepted papers will require at least one author to be registered for and attend the workshop. The authors of the accepted papers will have the opportunity to publish an extended version of their manuscripts within a journal special issue.
 
 All manuscripts must be written in English and submitted electronically in PDF format via [EasyChair](https://easychair.org/conferences/?conf=plothri19), using [IEEE format](https://www.ieee.org/conferences/publishing/templates.html) or [Overleaf format](https://www.overleaf.com/latex/templates/ieee-conference-template-example/nsncsyjfmpxy). Supplementary materials (such as videos) can be uploaded or they can be provided as external links within the submission.
 
