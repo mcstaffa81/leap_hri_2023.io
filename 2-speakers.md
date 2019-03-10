@@ -18,7 +18,7 @@ Tony Belpaeme is Professor at Ghent University and Professor of Cognitive System
 
 - [Takayuki Kanda](http://www.robot.soc.i.kyoto-u.ac.jp/~kanda/), *Kyoto University, Japan*
 {% include figure.html img="takayuki-kanda.jpeg" alt="Takayuki Kanda" width="200px" height="200px" %}
-Takayuki Kanda is a Senior Research Scientist at ATR Intelligent Robotics and Communication Laboratories, Kyoto, Japan. He received his B. Eng, M. Eng, and Ph. D. degrees in computer science from Kyoto University, Kyoto, Japan, in 1998, 2000, and 2003, respectively. He is one of the starting members of Communication Robots project at ATR. He has developed a communication robot, Robovie, and applied it in daily situations, such as peer-tutor at elementary school and a museum exhibit guide. His research interests include human-robot interaction, interactive humanoid robots, and field trials.
+Takayuki Kanda is a Professor in Kyoto University, Japan and a Visiting Group Leader in Intelligent Robotics and Communications Laboratory, ATR. He received his B. Eng, M. Eng, and Ph. D. degrees in computer science from Kyoto University, Kyoto, Japan, in 1998, 2000, and 2003, respectively. He is one of the starting members of Communication Robots project at ATR. He has developed a communication robot, Robovie, and applied it in daily situations, such as peer-tutor at elementary school and a museum exhibit guide. His research interests include human-robot interaction, interactive humanoid robots, and field trials.
 
 - [Hae Won Park](http://web.media.mit.edu/~haewon/), *MIT Media Lab Personal Robots Group, USA*
 {% include figure.html img="haewon-park.jpg" alt="Hae Won Park" width="200px" height="200px" %}
