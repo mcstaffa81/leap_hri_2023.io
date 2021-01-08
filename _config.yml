@@ -8,7 +8,9 @@
 
 # Site settings
 # title appears in the header
-title: "Lifelong Learning and Personalization in Long-Term Human-Robot Interaction"
+title: "Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)"
+
+title2: ""
 
 
 # author settings for cc-by, appears in the footer
