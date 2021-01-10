@@ -38,8 +38,7 @@ Dr. Gunes is a Reader in Affective Intelligence and Robotics (AFAR) and the Dire
 ## Sponsors
 <table>
     <tr>
-    <td> <img src="images/epsrc.png" alt="EPSRC" style="width: 150px;"/> </td>
-    <td> <img src="images/cambridge.jpg" alt="University of Cambridge" style="width: 150px;"/> </td>
+    <td> <img src="images/epsrc.png" alt="EPSRC" style="width: 150px;"/> </td>    
     </tr>
 </table>
 
