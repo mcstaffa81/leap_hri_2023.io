@@ -5,7 +5,7 @@ nav: true
 
 **Date:** March 8, 2021
 
-**Location:** (Virtual) On Zoom or some other platform?
+**Location:** Virtual
 
 **Contact:** bahar.irfan AT plymouth DOT ac DOT uk
 
@@ -23,7 +23,11 @@ nav: true
 
 We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and long-term studies. Additionally, we invite video and demonstration submissions of 3 minutes maximum, that are related to the topics of this workshop, and may showcase work, describe conceptual designs and prototypes for innovative ideas for long-term interactions or contain videos from experiments. Papers will be reviewed for their relevance, novelty, and scientific and technical soundness. Similarly, video and demonstration submissions will be reviewed for relevance, novelty, impact and appeal of the presentation.
 
-Submission Website Details TBD
+All manuscripts must be written in English and submitted electronically in PDF format via EasyChair. Authors should use the sample-sigconf.tex or interim_layout.docx template files. In addition, authors can use Overleaf (note that this Overleaf document uses the new ACM workflow by default, which is not what HRI is using; to fix this, make sure the document uses the “sigconf” document class, rather than the “acmart” document class that is enabled in the Overleaf document by default). Do not anonymize submissions for review.
+
+Video and demonstration submissions (maximum 3 minutes in length) should be sent by mail to aditiramachandran AT gmail.com
+
+Do not attach the video to the email, i.e., only include a link to the video in the email. The videos should follow HRI 2021 guidelines. However, we only require a title, one paragraph abstract and list of authors to be included in the email (i.e., a pdf is not necessary).
 
 ## Topics of Interest
 
