@@ -3,31 +3,41 @@ title: Submission
 nav: true
 ---
 
-**Date:** March 8, 2021
+**Date:** March 8, 2021 (Morning session)
 
-**Location:** Virtual
+**Location:** Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2021)
 
-**Contact:** bahar.irfan AT plymouth DOT ac DOT uk
+**Manuscript submission**: https://easychair.org/conferences/?conf=leaphri2021
+
+**Video/demonstration submission** aditiramachandran AT gmail.com
+
+**Questions:** bahar.irfan AT plymouth DOT ac DOT uk
 
 
 ## Important Dates
 
- - **Submission deadline:** Jan 31, 2021 (11:59 PM PT)
-
- - **Notification of acceptance:** Feb 15th, 2021
-
- - **Camera-ready deadline:** Feb 28th, 2021
+ - **Early-Bird Submission deadline:** Jan 25, 2021 (for registration at a lower rate)
+ - **Early-Bird Notification of acceptance:** Jan 30th, 2021
+ - **General Submission deadline:** Feb 17th, 2021
+ - **General Notification of acceptance:** Feb 24th, 2021
+ - **Camera-ready deadline:** March 5th, 2021
 
 
 ## Submission Guidelines
 
-We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and long-term studies. Additionally, we invite video and demonstration submissions of 3 minutes maximum, that are related to the topics of this workshop, and may showcase work, describe conceptual designs and prototypes for innovative ideas for long-term interactions or contain videos from experiments. Papers will be reviewed for their relevance, novelty, and scientific and technical soundness. Similarly, video and demonstration submissions will be reviewed for relevance, novelty, impact and appeal of the presentation.
+We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and long-term studies. Additionally, we invite video and demonstration submissions of 3 minutes maximum, that are related to the topics of this workshop, and may showcase work, describe conceptual designs and prototypes for innovative ideas for long-term interactions or contain videos from experiments. Papers will be reviewed for their relevance, novelty, and scientific and technical soundness. Similarly, video and demonstration submissions will be reviewed for relevance, novelty, impact and appeal of the presentation. **Accepted papers and video/demonstations will require at least one author to be registered for and attend the workshop.**
 
-All manuscripts must be written in English and submitted electronically in PDF format via EasyChair. Authors should use the sample-sigconf.tex or interim_layout.docx template files. In addition, authors can use Overleaf (note that this Overleaf document uses the new ACM workflow by default, which is not what HRI is using; to fix this, make sure the document uses the “sigconf” document class, rather than the “acmart” document class that is enabled in the Overleaf document by default). Do not anonymize submissions for review.
+All manuscripts must be written in English and submitted electronically in PDF format via EasyChair. Authors should use the sample-sigconf.tex or interim_layout.docx template files. **Submissions do not need to be anonymized for review**.
+
+Overleaf template (use “sigconf” as document class): [https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt)
+
+ACM templates: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
+
+ Accepted papers will be published on the workshop website, as well as in arXiv. Extended versions of selected papers will be invited for submission to the [Frontiers in Robotics and AI research topic “Lifelong Learning and Long-Term Human-Robot Interaction”](https://www.frontiersin.org/research-topics/14495/lifelong-learning-and-long-term-human-robot-interaction).
 
 Video and demonstration submissions (maximum 3 minutes in length) should be sent by mail to aditiramachandran AT gmail.com
 
-Do not attach the video to the email, i.e., only include a link to the video in the email. The videos should follow HRI 2021 guidelines. However, we only require a title, one paragraph abstract and list of authors to be included in the email (i.e., a pdf is not necessary).
+**Do not attach the video to the email**, i.e., only include a link to the video in the email. The videos should follow HRI 2021 guidelines. However, we only require **a title, one paragraph abstract and list of authors** to be included in the email (i.e., a pdf is not necessary).
 
 ## Topics of Interest
 
