@@ -19,6 +19,11 @@ Oliver Lemon is a Professor of Computer Science at Heriot-Watt University, Edinb
 
 
 PANELISTS
+
+- [Gabriel Skantze](), *Furhat Robotics*
+{% include figure.html img="gabriel_cropped.png" alt="" width="200px" height="200px" %}
+Gabriel Skantze is the Chief Scientist and co-founder of Furhat Robotics. Gabriel is also a Professor in Speech Technology with a specialization in Conversational Systems at KTH. He is leading several research projects and has published 100+ papers on conversational systems and human-robot interaction.
+
 - [Iolanda Leite](), *KTH Royal Institute of Technology, Sweden*
 {% include figure.html img="iolanda-leite.jpg" alt="Iolanda Leite" width="200px" height="200px" %}
 Iolanda Leite is an Associate Professor at the Division of Robotics, Perception and Learning at KTH Royal Institute of Technology. She received her PhD degree from the Technical University of Lisbon (IST). Before joining KTH, she was a Postdoctoral Associate at the Yale Social Robotics Lab and an Associate Research Scientist at Disney Research Pittsburgh. The goal of her research is to develop social robots that can capture, learn from and respond appropriately to the subtle dynamics that characterize real-world situations, allowing for truly efficient and engaging long-term interactions with people.
