@@ -3,11 +3,31 @@ title: Program
 nav: true
 ---
 
-## Schedule
+## Schedule (times given in MST)
 
-LEAP-HRI Workshop is a half day workshop on the topics of lifelong learning and personalization in long-term HRI. The workshop will consist of:
-- **Keynotes**: Invited researchers Michelle Zhou ( Juji Inc., USA) and Oliver Lemon (Heriot-Watt University, UK) will present their experiences and perspectives on the topic.
-- **Full talks**: The authors of the accepted research papers of full length (3-4 pages) will give 7 minutes presentation followed by 3 minutes question session.
-- **Video/demonstration session**: Accepted videos and demonstrations that are maximum 3 minutes in length, will be shown during this session.
-- **Panel**: A panel will be organized with leading researchers in HRI and Human-Computer Interaction (HCI) on the topics of interest, namely, Gabriel Skantze (Furhat Robotics), Iolanda Leite (KTH Royal Institute ofTechnology, Sweden), Alessandra Sciutti (Istituto Italiano diTecnologia, Italy), Ognjen Rudovic (MIT Media Lab) and Cristina Conati (University of British Columbia, Canada),to discuss the key challenges and advancements in these areas. The questions from the audience and organizers will be taken prior to the panel, as well as during the panel.
-- **Break-out session**: The workshop attendees will be divided into groups of 4-5 after the panel to follow up on the discussions
+
+**8:00-8:10**:  Opening remarks, coordinator: Bahar Irfan
+
+**8:10-8:45**:  Keynote #1: Oliver Lemon, chair: Hatice Gunes
+
+**8:45-9:15**:  Full paper talks #1, chair: Sinan Kalkan
+
+- 8:45-8:55  “Increasing Personalization in Long-Term Interactions with a Workplace Companion Robot”, **Rhian Preston** and Naomi Fitter
+- 8:55-9:05  “Evaluating Conversational Question Generation: CoffeeBot”, **Jelte van Waterschoot** and Mariet Theune
+- 9:05-9:15  “Adapting Language Complexity for AI-Based Assistance”, **Michelle Zhao**, Reid Simmons and Henny Admoni
+
+**9:15-9:50:**  Keynote #2: Michelle Zhou, chair: Aditi Ramachandran
+
+**9:50-10:00:**  **Coffee break**
+
+**10:00-10:30:**  Full paper talks #2, chair: German I. Parisi
+
+- 10:00 - 10:10:  “Towards Fair Affective Robotics: Continual Learning for Mitigating Bias in Facial Expression and Action Unit Recognition”, Ozgur Kara, **Nikhil Churamani** and Hatice Gunes
+- 10:10 - 10:20  “Improving Human Motion Prediction through Continual Learning”, **Mohammad Samin Yasar** and Tariq Iqbal
+- 10:20 - 10:30  “Situational Confidence Assistance for Lifelong Shared Autonomy”, **Matthew Zurek**, Andreea Bobu, Daniel Brown and Anca Dragan
+
+**10:30-11:30:**  Panel with Cristina Conati, Iolanda Leite, Ognjen Rudovic, Alessandra Sciutti, and Gabriel Skantze, moderator: Bahar Irfan, chair: Samuel Spaulding
+
+**11:30-11:50:**  Break-out session
+
+**11:50-12:00:**  Closing remarks, coordinator: Bahar Irfan

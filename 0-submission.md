@@ -16,10 +16,10 @@ nav: true
 
 ## Important Dates
 
- - **Early-Bird Submission deadline:** Jan 25, 2021 (for registration at a lower rate)
- - **Early-Bird Notification of acceptance:** Jan 30th, 2021
- - **General Submission deadline:** Feb 17th, 2021
- - **General Notification of acceptance:** Feb 24th, 2021
+ - ~~**Early-Bird Submission deadline:** Jan 25, 2021 (for registration at a lower rate)~~
+ - ~~**Early-Bird Notification of acceptance:** Jan 30th, 2021~~
+ - ~~**General Submission deadline:** Feb 17th, 2021~~
+ - ~~**General Notification of acceptance:** Feb 24th, 2021~~
  - **Camera-ready deadline:** March 5th, 2021
 
 
