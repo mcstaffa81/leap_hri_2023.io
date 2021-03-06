@@ -8,7 +8,7 @@ nav: true
 
 **8:00-8:10**:  Opening remarks, coordinator: Bahar Irfan
 
-**8:10-8:45**:  Keynote #1: Oliver Lemon, chair: Hatice Gunes
+**8:10-8:45**:  Keynote #1: Oliver Lemon, **"Conversational LEAPs in Human-Robot Interaction"**. Session Chair: Hatice Gunes
 
 **8:45-9:15**:  Full paper talks #1, chair: Sinan Kalkan
 
@@ -16,7 +16,7 @@ nav: true
 - 8:55-9:05  “Evaluating Conversational Question Generation: CoffeeBot”, **Jelte van Waterschoot** and Mariet Theune
 - 9:05-9:15  “Adapting Language Complexity for AI-Based Assistance”, **Michelle Zhao**, Reid Simmons and Henny Admoni
 
-**9:15-9:50:**  Keynote #2: Michelle Zhou, chair: Aditi Ramachandran
+**9:15-9:50:**  Keynote #2: Michelle Zhou, **"Cognitive AI Assistant: A new generation of AI companions"**. Session Chair: Aditi Ramachandran
 
 **9:50-10:00:**  **Coffee break**
 
