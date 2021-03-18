@@ -1,5 +1,6 @@
 ---
 title: Overview
+youtubeId: A4k3B3uewBs
 ---
 
 
@@ -11,9 +12,9 @@ title: Overview
 
 [Register for HRI 2021 here!](https://humanrobotinteraction.org/2021/registration/)
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
-
-{% include figure.html img="promos-main.png" alt="banner image" width="100%" %}
+<!-- {% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
 
 
 While most of the research in Human-Robot Interaction (HRI) focus on short-term interactions, long-term interactions require *bolder* developments and a substantial amount of resources, especially if the robots are deployed *in the wild*. The robots need to incrementally learn new concepts or abilities in a *lifelong* fashion to adapt their behaviors within new situations and personalize their interactions with users to maintain their interest and engagement. The "Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)" Workshop aims to take a *leap* from the traditional HRI approaches towards addressing the developments and challenges in these areas and create a medium for researchers to share their work in progress, present preliminary results, learn from the experience of invited researchers and discuss relevant topics. 
