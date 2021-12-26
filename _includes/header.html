@@ -17,7 +17,7 @@
       <a class="page-link" href="/"
       >Home</a>
         {% for lesson in site.pages %}
-          {% if lesson.nav == true %}
+          {% if lesson.nav == 2022 %}
           <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | absolute_url }}">{{ lesson.title | escape }}</a>
           {% endif %}
         {% endfor %}

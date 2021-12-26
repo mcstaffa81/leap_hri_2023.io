@@ -3,9 +3,9 @@ title: Submission
 nav: true
 ---
 
-**Date:** March 8, 2021 (Morning session)
+**Date:** March 7, 2022 (Morning session)
 
-**Location:** Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2021)
+**Location:** Virtual, as part of the 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
 
 **Manuscript submission**: https://easychair.org/conferences/?conf=leaphri2021
 
@@ -16,11 +16,11 @@ nav: true
 
 ## Important Dates
 
- - ~~**Early-Bird Submission deadline:** Jan 25, 2021 (for registration at a lower rate)~~
- - ~~**Early-Bird Notification of acceptance:** Jan 30th, 2021~~
- - ~~**General Submission deadline:** Feb 17th, 2021~~
- - ~~**General Notification of acceptance:** Feb 24th, 2021~~
- - **Camera-ready deadline:** March 5th, 2021
+- **Early-bird submission deadline:** January 23, 2022
+- **Early-bird notification of acceptance:** January 30, 2022
+- **General submission deadline:** February 14, 2022
+- **General notification of acceptance:** February 24, 2022
+- **Camera-ready deadline:** March 3, 2022
 
 
 ## Submission Guidelines
@@ -54,12 +54,5 @@ The workshop welcomes contributions across a wide range of topics including, but
 - Lifelong (long-term) multimodal interactions
 - Continual/lifelong machine learning
 - Long-term memory (episodic, semantic, associative)
-- Long-term HRI studies
-- Development concerns, including deployment, scalability and complexity
-- Tools and testbeds for evaluation of multi-session/long-term HRI
-- Methodological challenges for achieving successful long-term HRI
-- Metrics for evaluating long-term/lifelong HRI
-- Deployed and/or emerging applications for long-term HRI
-- Alternative approaches (e.g.  interactive program repair)
-- Philosophical, legal and ethical considerationsin long-term HRI
+- Privacy and ethical considerations in lifelong learning/personalization in HRI
 

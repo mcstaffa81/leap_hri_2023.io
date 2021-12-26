@@ -1,6 +1,6 @@
 ---
 title: Speakers
-nav: true
+nav: 2022
 ---
 
 ## Invited Speakers
@@ -8,36 +8,35 @@ nav: true
 <div class="id-pics" markdown="1">
 
 KEYNOTES
-- [Michelle Zhou](https://juji.io/), *Juji, Inc*
-{% include figure.html img="michellezhou.jpeg" alt="" width="200px" height="200px" %}
-Dr. Michelle Zhou is a Co-Founder and CEO of Juji, Inc., an Artificial Intelligence (AI) startup located in Silicon Valley, specializing in building state-of-the-art AI technologies and solutions that enable the creation and adoption of responsible and empathetic AI agents. Prior to starting Juji, Michelle led the User Systems and Experience Research (USER) group at IBM Research – Almaden and then the IBM Watson Group. Michelle’s expertise is in the interdisciplinary area of intelligent user interaction (IUI), including conversational AI systems and personality analytics. She is an inventor of the IBM Watson Personality Insights and has led the development and commercialization of at least a dozen products in her areas of expertise. Michelle has also published over 100 peer-reviewed, refereed scientific articles and 45 patents. She received a Ph.D. in Computer Science from Columbia University and is an ACM Distinguished Scientist.
+- [Vincenzo Lomonaco](https://www.vincenzolomonaco.com/), *University of Pisa*
+{% include figure.html img="vicenzo.jpeg" alt="" width="200px" height="200px" %}
+Vincenzo Lomonaco is an Assistant Professor at the University of Pisa, Italy and Co-Founding President of ContinualAI, a non-profit research organization and the largest open community on Continual Learning for AI. He also serves as a Co-founder and Board Member of AI for People, Director of the ContinualAI Lab and a proud member of the European Lab for Learning and Intelligent Systems (ELLIS)
 
 
-- [Oliver Lemon](), *Heriot-Watt University*
-{% include figure.html img="OliverLemon2019.jpg" alt="" width="200px" height="200px" %}
-Oliver Lemon is a Professor of Computer Science at Heriot-Watt University, Edinburgh, and Director of the Interaction Lab, which focuses on conversational AI, NLP, machine learning approaches to spoken and multimodal interaction, and Human-Robot Interaction. He was previously a research fellow at Stanford and Edinburgh universities, and holds a PhD from Edinburgh (1996). He has led several national and international research projects funded by EPSRC and the European Union.  He is an associate editor for ACM Transactions on Interactive Intelligent Systems. He is a faculty advisor of Heriot-Watt's Alexa-prize team, which was a finalist in both 2017 and 2018.
+- [Ginevra Castellano](), *Uppsala University, Sweden*
+{% include figure.html img="ginevra-cropped.png" alt="" width="200px" height="200px" %}
+Ginevra Castellano is a Professor in Intelligent Interactive Systems at the Department of Information Technology of Uppsala University, Sweden, where she leads the Uppsala Social Robotics Lab.
+
+Her research interests are in the area of intelligent interactive systems, and include social robotics, human-robot interaction and affective computing.
+
+The natural testbeds for this research are socially assistive scenarios where robots provide not only physical, but also social support to humans, where robotic technologies have the potential to bring benefits to the society we live in, for example in application areas such as education and assistive technology, by enhancing the lives of children and other groups that require specialised support and intervention.
 
 
 PANELISTS
 
-- [Gabriel Skantze](), *Furhat Robotics*
-{% include figure.html img="gabriel_cropped.png" alt="" width="200px" height="200px" %}
-Gabriel Skantze is the Chief Scientist and co-founder of Furhat Robotics. Gabriel is also a Professor in Speech Technology with a specialization in Conversational Systems at KTH. He is leading several research projects and has published 100+ papers on conversational systems and human-robot interaction.
+- [Sam Barrett](), *Sony AI*
+{% include figure.html img="SamBarrett.jpg" alt="" width="200px" height="200px" %}
+Sam joined Sony AI in 2019 as a senior research scientist, when Sony AI acquired Cogitai. Sam works on combining artificial intelligence and games using reinforcement learning. He previously worked at Amazon Robotics using AI to improve the performance of the robotics system inside Amazon's warehouses. He received his Ph.D. thesis at the University of Texas at Austin in October 2014. His dissertation examined the problem of ad hoc teamwork and cooperating with unknown teammates by exploiting previously learned knowledge. In addition, he helped the UT Austin Villa team win the 2012 international RoboCup competition in the standard platform league (SPL). Before joining UT, Sam received his B.S. in computer science from Stevens Institute of Technology in May 2008.
 
-- [Iolanda Leite](), *KTH Royal Institute of Technology, Sweden*
-{% include figure.html img="iolanda-leite.jpg" alt="Iolanda Leite" width="200px" height="200px" %}
-Iolanda Leite is an Associate Professor at the Division of Robotics, Perception and Learning at KTH Royal Institute of Technology. She received her PhD degree from the Technical University of Lisbon (IST). Before joining KTH, she was a Postdoctoral Associate at the Yale Social Robotics Lab and an Associate Research Scientist at Disney Research Pittsburgh. The goal of her research is to develop social robots that can capture, learn from and respond appropriately to the subtle dynamics that characterize real-world situations, allowing for truly efficient and engaging long-term interactions with people.
+- [Natasha Jaques](), *Google / UC Berkeley*
+{% include figure.html img="natasha.jpg" alt="" width="200px" height="200px" %}
+Natasha Jaques holds a joint position as a Senior Research Scientist at Google Brain and Visiting Postdoctoral Scholar at UC Berkeley. Her research focuses on Social Reinforcement Learning in multi-agent and human-AI interactions. Natasha completed her PhD at MIT, where her thesis received the Outstanding PhD Dissertation Award from the Association for the Advancement of Affective Computing. Her work has also received Best Demo at NeurIPS, an honourable mention for Best Paper at ICML, Best of Collection in the IEEE Transactions on Affective Computing, and Best Paper at the NeurIPS workshops on ML for Healthcare and Cooperative AI. She has interned at DeepMind, Google Brain, and was an OpenAI Scholars mentor. Her work has been featured in Science Magazine, Quartz, IEEE Spectrum, MIT Technology Review, Boston Magazine, and on CBC radio. Natasha earned her Masters degree from the University of British Columbia, and undergraduate degrees in Computer Science and Psychology from the University of Regina.
 
-- [Alessandra Sciutti](), *Istituto Italiano di Tecnologia*
-{% include figure.html img="alessandra.jpg" alt="" width="200px" height="200px" %}
-Alessandra Sciutti is a Tenure Track Researcher and Principal Investigator of the COgNiTive Architecture for Collaborative Technologies Unit (CONTACT) at IIT. She received her Ph.D. in Humanoid Technologies from the University of Genova (Italy). The scientific aim of her research is to investigate the sensory and motor mechanisms underlying mutual understanding in human-human interaction, with the technological goal of designing robots that can naturally cooperate with people in carrying out everyday tasks. Her research is aimed at defining which features of human and robot motion allow for natural mutual understanding, with particular reference to low-level kinematics properties (as biological motion) and higher-level, cognitive aspects (as intention reading and goal anticipation). 
+- [Kate Darling](), *MIT Media Lab*
+{% include figure.html img="kate-cropped.png" alt="" width="200px" height="200px" %}
+Dr. Kate Darling is a Research Specialist at the MIT Media Lab and author of The New Breed: What Our History with Animals Reveals about Our Future with Robots. Her interest is in how technology intersects with society. Kate’s current work looks at the near-term effects of robotic technology, with a particular interest in law, social, and ethical issues. She has also explored economic issues in intellectual property systems. She runs experiments, holds workshops, writes, and speaks about some of the more interesting developments in the world of human-robot interaction, and where we might find ourselves in the future.
 
-- [Ognjen Rudovic](), *MIT Media Lab*
+- [Ben Burchfiel](https://www.benburchfiel.com), *Toyota Research Institute*
 {% include figure.html img="ognjen.jpeg" alt="" width="200px" height="200px" %}
-Ognjen Rudovic is a Marie Curie Fellow in the Affective Computing group at Media Lab, working with Rosalind Picard on machine learning for the new generation of affective robots! His background is in Automatic Control Theory, Computer Vision, Artificial Intelligence and Machine Learning. In 2014, he received a PhD from Imperial College London, UK, where he worked on machine-learning and computer vision models for automated analysis of human facial behavior. His current research is focused towards the design of novel and more engaging machine learning paradigms for personalized, context-sensitive and multi-modal sensing (from audio, visual and physiological signals) of human behavior. The aim of these models is to improve the personal medicine and healthcare, as well as the existing wellbeing technologies.
-
-- [Cristina Conati](), *University of British Columbia*
-{% include figure.html img="conati_cropped.png" alt="" width="200px" height="200px" %}
-Cristina Conati is a Professor in the Department of Computer Science at the University of British Columbia. Her goal is to integrate research in Artificial Intelligence, Human Computer Interaction and Cognitive Science to create intelligent user interfaces that can effectively and reliably adapt to the needs of each user, particularly by extending the range of user's states and traits that can be reliably captured in a computational user model and leveraged for adaptation - from purely cognitive features (knowledge, skills, goals), to affective states (emotions, moods, attitudes), to meta-cognitive skills (e.g., the capability of effectively exploring a large information space) and personality traits.
-
+O
 

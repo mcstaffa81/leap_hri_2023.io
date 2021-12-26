@@ -1,18 +1,17 @@
 ---
 title: Overview
+nav: 2022
 youtubeId: A4k3B3uewBs
 ---
 
 
 ## Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI) 
 
-**When**: March 8, 2021. 8am-12pm Mountain Standard Time (MST) (Morning session)
+**When**: March 7, 2022. 1500-1900 Central European Time (CET)
 
-**Where**: Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2021)
+**Where**: Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
 
-[Register for HRI 2021 here!](https://humanrobotinteraction.org/2021/registration/)
-
-{% include youtubePlayer.html id=page.youtubeId %}
+[Register for HRI 2022 here!](https://humanrobotinteraction.org/2022/registration/)
 
 <!-- {% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
 
@@ -21,5 +20,5 @@ While most of the research in Human-Robot Interaction (HRI) focus on short-term 
 
 The workshop extends the topics covered in the "Personalization in Long-Term Human-Robot Interaction (PLOT-HRI)" Workshop at the 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI) and "Lifelong Learning for Long-term Human-Robot Interaction (LL4LHRI)" Workshop at the 29th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), and focuses on studies on lifelong learning and adaptivity to users, context, environment, and tasks in long-term interactions in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots).
 
-{% include figure.html img="hri-2021-horizontal.png" alt="intro image here" width="100%" %}
+{% include figure.html img="hri2022-header-logo.png" alt="intro image here" width="100%" %}
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}. 
