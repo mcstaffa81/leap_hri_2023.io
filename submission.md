@@ -25,7 +25,7 @@ nav: 2022
 
 
 
-We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research in lifelong learning and personalization in a variety of fields (e.g., education, reha- bilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and long-term studies. Papers will be reviewed for their relevance, novelty, and scientific and technical soundness.
+We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and long-term studies. Papers will be reviewed for their relevance, novelty, and scientific and technical soundness.
 
 Submissions do not need to be anonymized for review. All manuscripts must be written in English and submitted electronically in PDF format via EasyChair (link given at the top). The accepted papers will be published on the workshop website, as well as in arXiv.
 

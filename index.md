@@ -17,7 +17,7 @@ youtubeId: A4k3B3uewBs
 
 While most research in Human-Robot Interaction (HRI) studies one-off or short-term interactions in a laboratory setting, a growing body of research focuses on breaking through these boundaries and studying long-term interactions that arise through deployments of robots “in the wild”. Under these conditions, robots need to incrementally learn new concepts or abilities (i.e., “lifelong learning”) to adapt their behaviors within new situations and personalize their interactions with users to maintain their interest and engagement. The second edition of the “Lifelong Learning and Personalization in Long- Term Human-Robot Interaction (LEAP-HRI)” workshop aims to address the developments and challenges in these areas and create a medium for researchers to share their work in progress, present preliminary results, learn from the experience of invited researchers and discuss relevant topics. The workshop focuses on studies on lifelong learning and adaptivity to users, context, environment, and tasks in long-term interactions in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, service and companion robots).
 
-{% include figure.html img="LEAP-HRI-Promos-main-lowres.pdf" alt="" width="100%"%}
+{% include figure.html img="LEAP-HRI-Promos-main-lowres.png" alt="" width="100%"%}
 
 **Previous Workshops**
 

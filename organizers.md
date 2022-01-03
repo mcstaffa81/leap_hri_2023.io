@@ -9,8 +9,7 @@ nav: 2022
 
 - [Bahar Irfan](https://www.baharirfan.com/), *Evinoks Service Equipment Industry and Commerce Inc. (Turkey)*. 
 {% include figure.html img="bahar-irfan.jpg" alt="Bahar Irfan" width="200px" height="200px" %}
-Bahar Irfan received her PhD from the University of Plymouth (UK) and SoftBank Robotics Europe (France), as an Early-Stage Researcher in the Marie Skłodowska-Curie ITN project APRIL. She was an R&D Lab Associate at Disney Research Los Angeles in 2019, where she worked on dynamic emotional language adaptation in multiparty interactions. Her work focuses on multi-modal personalization in long-term human-robot interaction, which involves incremental and online learning of users, their behaviors and preferences in service and socially assistive robotics domains. She is currently working as an R&D Associate at Evinoks Inc., consulting on the development of customizable software for industrial robots and smart buffets.
-
+Bahar Irfan is an R&D Associate at Evinoks Service Equipment Industry and Commerce Inc., working on the development of customizable software for industrial robots and smart buffets. She was an R&D Lab Associate at Disney Research Los Angeles (USA) in 2019, where she worked on dynamic emotional language adaptation in multiparty interactions. She received her PhD on multi-modal personalization in long-term human-robot interaction from the University of Plymouth (UK) and SoftBank Robotics Europe (France), as an Early-Stage Researcher in the Marie Skłodowska-Curie ITN project APRIL. She holds a BSc in mechanical engineering and an MSc in computer engineering from Bogazici University (Turkey). Her research focuses on creating personal robots that can continually learn and adapt to help people in everyday environments.
 
 - [Aditi Ramachandran](http://www.aditiramachandran.com/), *Vän Robotics, USA*
 {% include figure.html img="aditi-ramachandran.png" alt="Aditi Ramachandran" width="200px" height="200px" %}
