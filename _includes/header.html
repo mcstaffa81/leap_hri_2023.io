@@ -14,10 +14,9 @@
       </span>
 
       <div class="trigger">
-      <a class="page-link" href="/"
-      >Home</a>
+      <!--<a class="page-link" href="/">Home</a>-->
         {% for lesson in site.pages %}
-          {% if lesson.nav == 2022 %}
+          {% if lesson.nav == page.nav %}
           <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | absolute_url }}">{{ lesson.title | escape }}</a>
           {% endif %}
         {% endfor %}
