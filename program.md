@@ -7,7 +7,7 @@ nav: 2022
 
 **15:00-15:10**: Opening remarks 
 
-**15:10-15:40**: Keynote #1  (Ginevra Castellano)
+**15:10-15:50**: Keynote #1  (Ginevra Castellano)
 
 **15:50-16:10**: Paper session #1 
 
