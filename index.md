@@ -1,7 +1,7 @@
 ---
 title: Home
 nav: 2022
-youtubeId: A4k3B3uewBs
+youtubeId: ljQqFFJB-hI
 ---
 
 
@@ -11,7 +11,9 @@ youtubeId: A4k3B3uewBs
 
 **Where**: Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
 
-[Register for HRI 2022 here!](https://humanrobotinteraction.org/2022/registration/)
+<!-- [Register for HRI 2022 here!](https://humanrobotinteraction.org/2022/registration/) -->
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <!-- {% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
 
