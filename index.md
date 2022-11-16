@@ -7,7 +7,7 @@ youtubeId: ljQqFFJB-hI
 
 ## Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI) 
 
-**When**: March 7, 2022. 15:00-19:00 Central European Time (CET)
+**When**: March 7, 2023. 15:00-19:00 Central European Time (CET)
 
 **Where**: Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
 
